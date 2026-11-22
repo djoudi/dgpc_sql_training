@@ -1,0 +1,4 @@
+-- Diagnostic: participants complete the queries (no answers in this file).
+-- Q1: List interventions from February 2026 ordered newest first.
+-- Q2: Count interventions per unit (including units with zero interventions).
+-- Q3: Show unit name and number of interventions, descending by count.

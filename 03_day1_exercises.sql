@@ -1,0 +1,10 @@
+-- Day 1: work in schema dgpc. Do not edit source tables.
+-- A1: List the ten most recent interventions: id, date, status.
+-- A2: Find interventions with response_minutes greater than 20.
+-- A3: Count interventions per status.
+-- B1: Show intervention id, unit_name, type_name and started_at using JOIN.
+-- B2: Count interventions per unit, including units with zero interventions.
+-- B3: Average response_minutes per intervention type, rounded to 2 decimals.
+-- C1: Find units with more than 80 interventions using HAVING.
+-- C2: Find the month with the highest intervention count using date_trunc.
+-- C3: Explain why joining intervention_agents and intervention_vehicles may inflate COUNT(*), and correct it.
